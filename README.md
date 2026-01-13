@@ -42,7 +42,6 @@ huce-notes/
 ---
 
 ## 🙌 Contribution / Đóng góp
-## 🙌 Contribution / Đóng góp
 If you are a HUCE student and would like to contribute notes or study materials, please send them via email for review and inclusion.
 
 Nếu bạn là sinh viên HUCE và muốn đóng góp vở ghi hoặc tài liệu học tập, vui lòng gửi qua email để được xem xét và cập nhật vào repo.
